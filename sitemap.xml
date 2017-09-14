@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/beep/</loc>
+    <lastmod>2016-12-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/goethe/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/fri-brochure/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/random-illustrations/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/codox/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/deygonnasee/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/shiatsu/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/paper-artwork/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/orange/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/</loc>
+    <lastmod>2016-12-05T19:59:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/</loc>
+    <lastmod>2016-12-05T19:59:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
