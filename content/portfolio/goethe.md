@@ -2,12 +2,12 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/goethe/title.png"
-date = "2016-11-05T19:59:22+05:30"
+date = "2016-10-05T19:59:22+05:30"
 title = "A school project"
 weight = 8
 +++
 
-Logotype and typography for 10th aniversary of Goethe Institut
+Logotype and typography for 10th aniversary of Goethe Institut.
 <!--more-->
 
 ![1](/img/portfolio/goethe/title.png)

@@ -3,14 +3,14 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/beep/title.jpg"
 date = "2016-12-05T19:59:22+05:30"
-title = "Illustration for Beep Magazine"
+title = "Beep Magazine"
 weight = 8
 +++
+Cover illustration.
 
-illustration for Beep
 
 <!--more-->
 
-![First page](/img/portfolio/beep/title.jpg)
+![Beep hr&m cover illustration](/img/portfolio/beep/title.jpg)
 
-![Just illustration](/img/portfolio/beep/beep_ilustr_1a.jpg)
+![Magazine cover illustration Human Resource management](/img/portfolio/beep/beep_ilustr_2a.jpg)

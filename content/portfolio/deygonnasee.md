@@ -1,22 +1,21 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/deygonnasee/title.jpg"
-date = "2016-11-05T19:59:22+05:30"
-title = "Logo for DeygonnaSee"
+image = "img/portfolio/deygonnasee/title1.jpg"
+date = "2017-09-05T19:59:22+05:30"
+title = "Deygonna See"
 weight = 8
 +++
 
-Logo design
+Logo design.
 
 <!--more-->
 
-![5](/img/portfolio/deygonnasee/title.jpg)
+![Deygonna See logotype bronze](/img/portfolio/deygonnasee/title1.jpg)
 
-![1](/img/portfolio/deygonnasee/logo-dgs1.png)
+![Deygonna See logotype black white](/img/portfolio/deygonnasee/logo-dgs3.png)
 
-![2](/img/portfolio/deygonnasee/logo-dgs3.png)
+![Deygonna See logotype line](/img/portfolio/deygonnasee/logo-dgs9.png)
 
-![3](/img/portfolio/deygonnasee/logo-dgs7.png)
-
-![4](/img/portfolio/deygonnasee/logo-dgs9.png)
+First sketches. The customer wanted an eye inside the camera's lens.
+![4](/img/portfolio/deygonnasee/dgs-sketches.jpg)

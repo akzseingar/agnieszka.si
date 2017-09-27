@@ -3,19 +3,22 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/random-illustrations/title.jpg"
 date = "2016-11-05T19:59:22+05:30"
-title = "Different Illustrations"
+title = "Personal projects"
 weight = 8
 +++
 
-illustrations, cartoons
+Sketches, doodles and illustrations.
 <!--more-->
 
-![First page](/img/portfolio/random-illustrations/title.jpg)
-
-![Just illustration](/img/portfolio/random-illustrations/cerber.png)
-
-![Just illustration](/img/portfolio/random-illustrations/akvarij_stena2.jpg)
+![First page](/img/portfolio/random-illustrations/title1.jpg)
 
 ![Just illustration](/img/portfolio/random-illustrations/innovate.jpg)
 
+![Just illustration](/img/portfolio/random-illustrations/akt1.jpg)
+
+![Just illustration](/img/portfolio/random-illustrations/akt2.jpg)
+
+![Just illustration](/img/portfolio/random-illustrations/garlic.jpg)
+
+![Just illustration](/img/portfolio/random-illustrations/marko.jpg)
 
