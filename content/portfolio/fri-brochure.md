@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/fri-brochure/title.jpg"
+image = "img/portfolio/fri-brochure/title1.jpg"
 date = "2017-10-05T19:59:22+05:30"
 title = "Faculty of Computer and Information Science"
 weight = 8
@@ -23,6 +23,5 @@ Brochures design.
 
 ![Fri brochure design](/img/portfolio/fri-brochure/brosura_tuji_2_800_600.jpg)
 
-Sometimes it was quite a challenge...
 ![Fri brochure infographics](/img/portfolio/fri-brochure/fri_brosura.jpg)
 

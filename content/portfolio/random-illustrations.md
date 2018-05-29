@@ -1,14 +1,16 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/random-illustrations/title.jpg"
-date = "2016-11-05T19:59:22+05:30"
+image = "img/portfolio/random-illustrations/title2.jpg"
+date = "2014-11-05T19:59:22+05:30"
 title = "Personal projects"
 weight = 8
 +++
 
 Sketches, doodles and illustrations.
 <!--more-->
+
+![First page](/img/portfolio/random-illustrations/title2.jpg)
 
 ![First page](/img/portfolio/random-illustrations/title1.jpg)
 

@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/staranje_knjig/title.jpg"
-date = "2016-11-05T19:59:22+05:30"
+date = "2014-11-05T19:59:22+05:30"
 title = "Aging books - a school project"
 weight = 8
 +++

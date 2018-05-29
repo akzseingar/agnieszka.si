@@ -17,5 +17,17 @@ Logo design.
 
 ![Deygonna See logotype line](/img/portfolio/deygonnasee/logo-dgs9.png)
 
-First sketches. The customer wanted an eye inside the camera's lens.
+&nbsp;
+
 ![4](/img/portfolio/deygonnasee/dgs-sketches.jpg)
+
+<p style="text-align: center;">First sketches. The customer wanted an eye inside the camera's lens.</p>
+
+&nbsp;
+
+&nbsp;
+
+![Deygonna See logotype line](/img/portfolio/deygonnasee/logo-dg-2.png)
+
+&nbsp;
+<p style="text-align: center;">More playful option which unfortunately was not chosen.</p>
