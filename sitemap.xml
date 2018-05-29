@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.agnieszka.si/portfolio/star-reach/</loc>
+    <lastmod>2018-12-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.agnieszka.si/portfolio/orange/</loc>
     <lastmod>2017-11-05T19:59:22+05:30</lastmod>
   </url>
@@ -99,7 +104,7 @@
   
   <url>
     <loc>http://www.agnieszka.si/</loc>
-    <lastmod>2017-11-05T19:59:22+05:30</lastmod>
+    <lastmod>2018-12-05T19:59:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,7 +115,7 @@
   
   <url>
     <loc>http://www.agnieszka.si/portfolio/</loc>
-    <lastmod>2017-11-05T19:59:22+05:30</lastmod>
+    <lastmod>2018-12-05T19:59:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
