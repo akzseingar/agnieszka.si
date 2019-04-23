@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Agnieszka Rovšnik</copyright>
-    <lastBuildDate>Wed, 05 Dec 2018 19:59:22 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 19:59:22 +0530</lastBuildDate>
     
 	<atom:link href="http://www.agnieszka.si/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seeing Unseeable</title>
+      <link>http://www.agnieszka.si/portfolio/seeing-unseeable/</link>
+      <pubDate>Tue, 05 Mar 2019 19:59:22 +0530</pubDate>
+      
+      <guid>http://www.agnieszka.si/portfolio/seeing-unseeable/</guid>
+      <description>&lt;p&gt;Scientific illustration.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Star Reach</title>
@@ -18,9 +28,19 @@
       <pubDate>Wed, 05 Dec 2018 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/portfolio/star-reach/</guid>
-      <description>&lt;p&gt;Logotype design for slovenian microbrewery.&lt;/p&gt;
+      <description>&lt;p&gt;Logo design for slovenian microbrewery.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quasar</title>
+      <link>http://www.agnieszka.si/portfolio/quasar/</link>
+      <pubDate>Mon, 05 Nov 2018 19:59:22 +0530</pubDate>
+      
+      <guid>http://www.agnieszka.si/portfolio/quasar/</guid>
+      <description>&lt;p&gt;Visual identity for data mining program.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,16 +60,6 @@
       
       <guid>http://www.agnieszka.si/portfolio/orange/</guid>
       <description>&lt;p&gt;Refreshed visual identity for data mining program.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Quasar</title>
-      <link>http://www.agnieszka.si/portfolio/quasar/</link>
-      <pubDate>Sun, 05 Nov 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/quasar/</guid>
-      <description>&lt;p&gt;Visual identity for data mining program.
 &lt;/p&gt;</description>
     </item>
     
@@ -124,7 +134,7 @@
       <pubDate>Mon, 05 Dec 2016 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/portfolio/miska-kiki/</guid>
-      <description>&lt;p&gt;Illustrations for children&amp;rsquo;s tactile book. The book was made as a school project in collaboration with Faculty of Natural Sciences and Engineering and Aksinja Kermauner (author of the book).&lt;/p&gt;
+      <description>&lt;p&gt;Illustrations for children&amp;rsquo;s tactile book.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -175,8 +185,7 @@
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/portfolio/tactile/</guid>
-      <description>&lt;p&gt;Tactile illustrations.
-&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
