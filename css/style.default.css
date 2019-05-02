@@ -356,7 +356,7 @@ SIDEBAR + RIGHT COLUMN
   text-decoration: none;
 }
 .sidebar-p {
-  color: #999999;
+  color: #777;
   font-size: 14px;
 }
 .sidebar-menu {
@@ -417,7 +417,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column-content p,
 .content-column-content li {
-  color: #999999;
+  color: #555555;
 }
 .content-column-content ul li {
   list-style-type: none;
@@ -872,7 +872,7 @@ a:active {
   letter-spacing: 0.1em;
 }
 .box-masonry h4 a {
-  color: #000;
+  color: #777;
   border-bottom: solid 1px transparent;
 }
 .box-masonry h4 a:hover {
@@ -884,7 +884,7 @@ a:active {
   padding: 15px 20px 15px;
 }
 .box-masonry .box-masonry-text p {
-  color: #999999;
+  color: #777;
   font-size: 14px;
 }
 .box-masonry .box-masonry-hover-text-header {
