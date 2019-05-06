@@ -7,7 +7,7 @@ title = "Orange T-shirts"
 weight = 8
 +++
 
-Illustrations, T-shirt design.
+Illustrations for T-shirts.
 <!--more-->
 
 ![1](/img/portfolio/orange-t-shirt/title.jpg)

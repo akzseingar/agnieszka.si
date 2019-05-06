@@ -7,8 +7,11 @@ title = "Single Cell Orange"
 weight = 8
 +++
 
-Visual Identity: logotype, web page design, illustrations and animation for tutorial videos.
+Visual identity for data mining program.
+
 <!--more-->
+
+ScOrange is single cell analysis program and is part of the Orange Data Mining program. The idea was to keep the visual identity similar to the one of Orange: illustrations are playfull, fun and yet precisely explanatory, what is ScOrange and how it works. I've made new ScOrange logotype, web page design, illustrations and animation for tutorial videos.
 
 Project web page: https://singlecell.biolab.si
 

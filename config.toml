@@ -12,9 +12,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "illustration, design, playfulness"
-  copyright = "&copy;2018 Agnieszka Rovšnik"
+  copyright = "&copy;2019 Agnieszka Rovšnik"
   sidebarAbout = [
-    "An illustrator and a multidisciplinary graphic designer. Functional and good-looking spiced with playfulness. Based in Slovenia."
+    "Functional and timeless design. Custom illustrations for your new product. Handmade in Slovenia."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -35,9 +35,9 @@ googleAnalytics = ""
   name = "Home"
   url = ""
 
-  #[[params.navlinks]]
-  #name = "About"
-  #url = "about/"
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Contact me"
@@ -50,5 +50,5 @@ googleAnalytics = ""
 #  twitter       = "full profile url in twitter"
 #  linkedin      = "full profile url in linkedin"
 #  stackoverflow = "full profile url in stackoverflow"
-#  instagram     = "full profile url in instagram"
+instagram     = "https://www.instagram.com/agnieszka_rovsnik/"
 #  github        = "full profile url in github"

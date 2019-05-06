@@ -2,13 +2,15 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/paper-artwork/title1.jpg"
-date = "2016-11-05T19:59:22+05:30"
-title = "Light Catchers - A personal project"
+date = "2017-11-05T19:59:22+05:30"
+title = "Light Catchers"
 weight = 8
 +++
 
-Paper and textile art pieces.
+Paper artworks.
+
 <!--more-->
+These artworks are a result of my study visit to Poland, at the Academy of Fine Arts in Lodz. I've graduated from this work and exhibited it in various galleries (KUD France Prešeren, City Museum of Ljubljana and SitiART Store.)
 
 ![1](/img/portfolio/paper-artwork/title1.jpg)
 
@@ -33,5 +35,3 @@ Paper and textile art pieces.
 ![6](/img/portfolio/paper-artwork/paper2.jpg)
 
 ![6](/img/portfolio/paper-artwork/paper3.jpg)
-
-This whole project is a result of experimenting in paper mache studio at the Academy of Fine Arts in Lodz, Poland. It is my diploma.

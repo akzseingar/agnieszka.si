@@ -7,7 +7,7 @@ title = "Deygonna See"
 weight = 8
 +++
 
-Logo design.
+Logotype design.
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Logo design.
 
 ![4](/img/portfolio/deygonnasee/dgs-sketches.jpg)
 
-<p style="text-align: center;">First sketches. The customer wanted an eye inside the camera's lens.</p>
+<p style="text-align: center;">First sketches. Client wanted an eye inside the camera's lens.</p>
 
 &nbsp;
 

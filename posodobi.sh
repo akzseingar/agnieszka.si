@@ -13,6 +13,8 @@ ls
 rm -r about categories contact css img js portfolio sitemap.xml tags || true
 cp -r ../agnieszka2017/public/* .
 
+touch .nojekyll
+
 # comming and update
 git add .
 git commit -a -m "auto push" || true # can fail on no changes
