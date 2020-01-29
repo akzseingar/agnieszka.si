@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "illustration, design, playfulness"
+  description = "Timeless design and custom made illustration"
   copyright = "&copy;2019 Agnieszka Rovšnik"
   sidebarAbout = [
-    "Functional and timeless design. Custom illustrations for your new product. Handmade in Slovenia."
+    "Functional and timeless design. Custom made illustrations for your new product. Handmade in Slovenia."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

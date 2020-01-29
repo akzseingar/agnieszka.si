@@ -29,7 +29,7 @@ Project web page: https://singlecell.biolab.si
 
 &nbsp;
 
-  <iframe frameborder="0" width="100%" height="400px"
-    src="https://www.youtube.com/embed/3nMcI4Hxm7c">
-  </iframe>
+<iframe frameborder="0" width="100%" height="400px"
+  src="https://www.youtube.com/embed/3nMcI4Hxm7c">
+ </iframe>
   <p style="text-align: center;">Intro and outro for tutorial videos.</p>
