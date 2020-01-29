@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -108,6 +108,16 @@
   </url>
   
   <url>
+    <loc>http://www.agnieszka.si/</loc>
+    <lastmod>2019-10-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/</loc>
+    <lastmod>2019-10-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.agnieszka.si/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -118,25 +128,11 @@
   </url>
   
   <url>
-    <loc>http://www.agnieszka.si/</loc>
-    <lastmod>2019-10-05T19:59:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.agnieszka.si/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/</loc>
-    <lastmod>2019-10-05T19:59:22+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.agnieszka.si/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

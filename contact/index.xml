@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact me on Agnieszka Rovšnik</title>
@@ -6,7 +6,6 @@
     <description>Recent content in Contact me on Agnieszka Rovšnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2019 Agnieszka Rovšnik</copyright>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     
 	<atom:link href="http://www.agnieszka.si/contact/index.xml" rel="self" type="application/rss+xml" />
