@@ -4,3 +4,17 @@
     max-width: 100%;
     height: auto;
 }
+
+.sidebar-p {
+  color: #777;
+}
+.content-column-content p,
+.content-column-content li {
+  color: #555555;
+}
+.box-masonry h4 a {
+  color: #777;
+}
+.box-masonry .box-masonry-text p {
+  color: #777;
+}
