@@ -12,6 +12,7 @@ install:
 script:
     - hugo
     - echo 'agnieszka.si' > public/CNAME
+    - touch public/.nojekyll
 
 deploy:
   provider: pages
