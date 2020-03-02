@@ -6,10 +6,19 @@
     <description>Recent content on Agnieszka Rovšnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Oct 2019 19:59:22 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.agnieszka.si/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vučko</title>
+      <link>http://www.agnieszka.si/portfolio/vucko/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.agnieszka.si/portfolio/vucko/</guid>
+      <description>&lt;p&gt;Mascot and logo design.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tango Mural</title>
@@ -80,7 +89,16 @@
       <pubDate>Thu, 05 Oct 2017 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/portfolio/fri-brochure/</guid>
-      <description>&lt;p&gt;Brochures design.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Brochure design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research review</title>
+      <link>http://www.agnieszka.si/portfolio/fri-research-review/</link>
+      <pubDate>Thu, 05 Oct 2017 19:59:22 +0530</pubDate>
+      
+      <guid>http://www.agnieszka.si/portfolio/fri-research-review/</guid>
+      <description>&lt;p&gt;Brochure design.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -108,15 +126,6 @@
       
       <guid>http://www.agnieszka.si/portfolio/beep/</guid>
       <description>&lt;p&gt;Cover illustration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>European Argentine Tango Association</title>
-      <link>http://www.agnieszka.si/portfolio/eata_logo/</link>
-      <pubDate>Mon, 05 Dec 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/eata_logo/</guid>
-      <description>&lt;p&gt;Logo design.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -180,15 +189,6 @@
       
       <guid>http://www.agnieszka.si/portfolio/wlan/</guid>
       <description>&lt;p&gt;Illustrations for a brochure.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A school project</title>
-      <link>http://www.agnieszka.si/portfolio/goethe/</link>
-      <pubDate>Wed, 05 Oct 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/goethe/</guid>
-      <description>&lt;p&gt;Logotype and typography for 10th aniversary of Goethe Institut.&lt;/p&gt;</description>
     </item>
     
     <item>
