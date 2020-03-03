@@ -16,7 +16,7 @@ Project web page: https://orange.biolab.si
 
 ![Orange visual identity](/img/portfolio/orange/title.jpg)
 
-![Orange web page design](/img/portfolio/orange/orange_web1 2.jpg)
+![Orange web page design](/img/portfolio/orange/orange_web.jpg)
 
 ![Orange business cards](/img/portfolio/orange/orange_web_VIZ.jpg)
 
