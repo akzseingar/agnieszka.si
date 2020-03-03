@@ -10,8 +10,12 @@ weight = 8
 Illustrations for a brochure.
 <!--more-->
 
+The wlan slovenija open wireless network of Slovenia is an initiative for deployment of open and free community wireless network across all Slovenia. I've made illustrations on how to correctly use the node. You can see the illustration [here](https://wlan-si.net/en/gallery/) and [here](https://peoplesopen.net/blog/how-to-position-your-mesh-node/).
+
 ![First page](/img/portfolio/wlan/title.jpg)
 
 ![Just illustration](/img/portfolio/wlan/zgibanka2a.png)
 
 ![Just illustration](/img/portfolio/wlan/wlanko2_800_600.jpg)
+
+![Just illustration](/img/portfolio/wlan/wlan-exhibition.jpg)

@@ -11,7 +11,7 @@ Mascot and logo design.
 
 <!--more-->
 
-I've designed a logo for international bus transport service. Core values of the company are trust, confidence, empathy, positive stance and beeing always prepared. The company wanted a wolf as their mascot. Usually a wolf is represented as a negative character. I've had an interesting challenge to draw a smilling wolf!
+I've designed a logo for international bus transport service. Core values of the company are trust, confidence, empathy, positive stance and beeing always prepared. The company wanted a wolf as their mascot. Usually a wolf is represented as a negative character. I've had an interesting challenge to draw a smilling wolf! The company doesn't have a web page yet.
 
 ![Vucko](/img/portfolio/vucko/vucko-logo-02.jpg)
 

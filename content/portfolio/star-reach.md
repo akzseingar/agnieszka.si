@@ -10,7 +10,7 @@ Logo design for slovenian microbrewery.
 
 <!--more-->
 
-The name Star Reach came from customer's surname Starič, which pronounced in slovenian sounds "stareach". The logomark came naturally.
+The name Star Reach came from customer's surname Starič, which pronounced in slovenian sounds "stareach". The logomark came naturally. The company doesn't have a web page yet.
 
 ![Star Reach Logo](/img/portfolio/star-reach/star_reach_01.jpg)
 

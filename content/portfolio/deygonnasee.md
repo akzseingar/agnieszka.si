@@ -11,6 +11,8 @@ Logotype design.
 
 <!--more-->
 
+
+
 ![Deygonna See logotype bronze](/img/portfolio/deygonnasee/title1.jpg)
 
 ![Deygonna See logotype black white](/img/portfolio/deygonnasee/logo-dgs3.png)
