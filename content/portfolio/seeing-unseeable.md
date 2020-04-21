@@ -10,15 +10,17 @@ weight = 8
 Scientific illustration.
 <!--more-->
 
-This illustration was done for a scientist, who would like to submit her paper to one of the most known science magazines. The illustration shows the idea of seeing unseeable, discovering a new process in the field of nanoscience.
+This illustration was made for a a scientific paper about the Alzheimer's deasease. The illustration shows 'seeing the unseeable' in the field of nanoscience. It shows the idea of a novel infrared technique to better identify the cause of degeneration of the brain.
 
-Unfortunately I can't write all the details now, because the article hasn't been submited yet.
+The article was published in [Advanced Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202070030) magazine and the illustration was used as a cover page of the issue.
 
+
+![Seeing-Unseeable](/img/portfolio/seeing-unseeable/seeing-unseeable.jpg)
 
 ![Seeing-Unseeable](/img/portfolio/seeing-unseeable/seeing-unseeable-title.jpg)
 
 ![Seeing-Unseeable](/img/portfolio/seeing-unseeable/seeing-unseeable-02.jpg)
 
-
-
 ![Seeing-Unseeable](/img/portfolio/seeing-unseeable/seeing-unseeable-process.gif)
+
+![Seeing-Unseeable](/img/portfolio/seeing-unseeable/seeing-unseeable-cover-page.jpg)
