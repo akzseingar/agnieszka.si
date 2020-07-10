@@ -3,13 +3,13 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/tactile/title.jpg"
 date = "2016-11-05T19:59:22+05:30"
-title = "Tactiles for various museums and galleries"
+title = "Tactile paintings for museums and galleries"
 weight = 8
 +++
 
-Tactile illustrations.
+Tactile paintings.
 <!--more-->
-A tactile illustration is reliefed illustration that can be understood with fingertips. It has to be very simple, so the blind people recognize the form while touching it. I've done several tactile illustrations for City Museum of Ljubljana and Celje Regional Museum.
+A tactile picture is a relief, that blind people can understand with fingertips. It has to be very simple, so the blind people recognize the form while touching it. I've made several tactile paintings from original paintings at City Museum of Ljubljana and Celje Regional Museum. I've also made a 3D tactile model of Archaeological park Emona in Ljubljana.
 
 ![1](/img/portfolio/tactile/title.jpg)
 

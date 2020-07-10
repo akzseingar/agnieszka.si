@@ -6,19 +6,32 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+DefaultContentLanguage = "en"
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.sl]
+    languageName = "Slovenščina"
+    weight = 2
+
+
+
+
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Timeless design and custom made illustration"
+  description = "Timeless design and custom made illustrations"
   copyright = "&copy;2020 Agnieszka Rovšnik"
-  sidebarAbout = [
-    "Functional and timeless design. Custom made illustrations for your new product. Handmade in Slovenia."
-  ]
+
+
+
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -34,18 +47,37 @@ unsafe= true
   email = "a@agnieszka.si"
 
   # Nav links in the side bar
-  [[params.navlinks]]
+  [[languages.en.params.navlinks]]
   name = "Home"
   url = "portfolio/"
   home = true
 
-  [[params.navlinks]]
+  [[languages.sl.params.navlinks]]
+  name = "Domov"
+  url = "/sl/portfolio/"
+
+  [[languages.en.params.navlinks]]
   name = "About"
   url = "about/"
 
-  [[params.navlinks]]
+  [[languages.sl.params.navlinks]]
+  name = "O meni"
+  url = "o/"
+
+  [[languages.en.params.navlinks]]
   name = "Contact me"
   url = "contact/"
+
+  [[languages.sl.params.navlinks]]
+  name = "Kontakt"
+  url = "kontakt/"
+
+  [[languages.sl.params.sidebarAbout]]
+  name = "Uporabno in brezčasno oblikovanje. Ilustracije za spletne strani, revije, znanstvene ilustracije, poslikave sten. Celostne grafične podobe, logotipi, brošure, plakati in še več. "
+
+
+   [[languages.en.params.sidebarAbout]]
+   name = "Functional and timeless design. Illustrations for web page, editorial, scientfic illustrations, and murals. Branding, logotypes, brochures, posters and more. Handmade in Slovenia."
 
   [params.social]
 # facebook      = "https://www.facebook.com/agnieszkarovsnik"
@@ -56,3 +88,5 @@ unsafe= true
 #  stackoverflow = "full profile url in stackoverflow"
 instagram     = "https://www.instagram.com/agnieszka_rovsnik/"
 #  github        = "full profile url in github"
+
+

@@ -3,13 +3,14 @@
     <a href="/"><img src="/img/portfolio/beep/ar_logotype.png" alt="Logotype" style="margin: 0; padding-bottom: 12px; max-width: 95%"></a>
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     {{ range .Site.Params.sidebarAbout }}
-      <p class="sidebar-p">{{ . | safeHTML }}</p>
+      <p class="sidebar-p">{{ .name }}</p>
     {{ end }}
     <ul class="sidebar-menu">
       {{ range .Site.Params.navlinks }}
         <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
       {{ end }}
     </ul>
+
     {{ partial "social_buttons_in_sidebar.html" . }}
 
     <div class="copyright">
@@ -20,5 +21,13 @@
         {{ partial "attribution.html" . }}
       </p>
     </div>
+
+    <ul class="sidebar-menu">
+      {{ if .IsTranslated }}
+        {{ range .Translations }}
+         <li class="fright"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+        {{ end}}
+      {{ end }}
+    </ul>
   </div>
 </div>

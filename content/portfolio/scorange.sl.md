@@ -7,13 +7,13 @@ title = "Single Cell Orange"
 weight = 8
 +++
 
-Visual identity.
+Celostna grafična podoba.
 
 <!--more-->
 
-ScOrange is single cell analysis program and is part of the Orange Data Mining program. The idea was to keep the visual identity similar to the one of Orange: illustrations are playful, fun and yet precisely explanatory, what is ScOrange and how it works. I've made new ScOrange logotype, web page design, illustrations and animation for tutorial videos.
+ScOrange je del Orange Data Mining programa. Zaradi tega, sem poskušala ohraniti vizualno zgodbo podobno Orange programu. Vizualna podoba je igriva, pisana, in vabljiva. Ilustracije do pomemben del podobe, saj na igriv način pojasnjujejo zelo resno tematiko.
 
-ScOrange web page: https://singlecell.biolab.si
+ScOrange spletna stran: https://singlecell.biolab.si
 
 ![scOrange visual identity](/img/portfolio/scorange/title.png)
 <p style="text-align: center;"></p>

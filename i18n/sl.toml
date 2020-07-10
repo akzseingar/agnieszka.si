@@ -1,0 +1,8 @@
+[ContactName]
+other = "Vaše ime"
+
+[ContactEmail]
+other = "Vaš elektronski naslov"
+
+[ContactMessage]
+other = "Vaše sporočilo"

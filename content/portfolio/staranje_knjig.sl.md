@@ -3,15 +3,15 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/staranje_knjig/title.jpg"
 date = "2014-11-05T19:59:22+05:30"
-title = "Aging books"
+title = "Staranje knjig"
 weight = 8
 +++
 
 Textile and fashion design.
 <!--more-->
-Although this was a school project from many years ago, I have it in my portfolio, because I'm very proud of it. I made this collection of clothes for final fashion show of graduate students. The clothes are purely experimental, and artistic. I wanted to express the contrast - formal clothing, getting old and falling apart.
+Kljub temu, da je bil to šolski projekt izpred mnogo let, ga puščam tukaj, v svojem portfoliu, ker sem zelo ponosna nanj. Kolekcijo oblačil sem oblikovala za zaključno modno revijo diplomskih študentov. Kolekcija je bila izrazito umetniška in eksperimentalna. Poskušala sem prikazati močan kontrast v formalnih oblačilih, čistih linijah ter organskostjo in staranjem.
 
-My collection was chosen as "Promissing young talents".
+Moja linija oblačil je bila izbrana kot "Obetajoči mladi talenti".
 
 
 ![First page](/img/portfolio/staranje_knjig/title.jpg)

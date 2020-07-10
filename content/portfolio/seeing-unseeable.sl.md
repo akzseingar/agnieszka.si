@@ -7,12 +7,12 @@ title = "Seeing Unseeable"
 weight = 8
 +++
 
-Scientific illustration.
+Znanstvena ilustracija.
 <!--more-->
 
-This illustration was made for a a scientific paper about the Alzheimer's disease in the field of nano science. It shows the idea of a novel infrared technique to better identify the cause of degeneration of the brain.
+Ilustracijo sem narisala za stranko, ki je napisala članek s področja nanoznanosti in alzheimerjeve bolezni. Ilustracija prikazuje zmožnost nove infrardeče tehnologije prepoznavanja vzrokov propadanja možganov.
 
-The article was published in [Advanced Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202070030) journal. My illustration was used as a cover page of the issue.
+Članek je bil objavljen v znanstveni reviji [Advanced Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202070030). Moja ilustracija je bila objavljena na naslovnici revije.
 
 
 ![Seeing-Unseeable](/img/portfolio/seeing-unseeable/seeing-unseeable.jpg)

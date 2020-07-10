@@ -1,9 +1,11 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "This is me"
 +++
 
-I like questions - for me, a stupid question doesn't exist. I think honest communication solves everything. Beeing an adult doesn't mean beeing uptight. I believe in timeless design.
+ I like questions. I think good communication solves everything. I believe that form follows function. An I'm also a big believer in the power of illustrations. They are a powerful tool for product branding; a touching storytellers and effective explainers.
+
+![This is me][1]
 
 My name is Agnieszka, half polish, half slovenian. I was born in 1986 in small and pretty country of Slovenia, where I also live and work as freelancer.
 
@@ -11,4 +13,6 @@ After finishing [Textile and fashion design](/portfolio/paper-artwork/) at Unive
 
 **Clients:** City Museum of Ljubljana, Celje Regional Museum, Faculty of Computer and Information Science Ljubljana, Wlan Slovenija, Synchrotron Soleil, Orange Data mining, Codox, Lund University.
 
-I speak slovenian, english, polish, and croatian fluently. I speak basic french. In my free time I like to do sport climbing, tango dancing (I was a cofounder of a tango school for 1 year), wandering in the nature and deep conversations (not just with myself!).
+I speak slovenian, english, polish, and croatian fluently. I speak basic french. In my free time I like to do sport climbing, tango dancing, wandering in the nature and deep conversations (not just with myself!).
+
+[1]: /img/about.jpg

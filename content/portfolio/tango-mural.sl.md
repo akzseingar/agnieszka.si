@@ -3,14 +3,14 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/tango-mural/tango-mural-800.jpg"
 date = "2019-10-05T19:59:22+05:30"
-title = "Tango Mural"
+title = "Tango stenske poslikave"
 weight = 8
 +++
 
-Big mural painting for a dance studio.
+Velike stenske poslikave v plesnem studiu.
 <!--more-->
 
-I've painted four walls in a dance studio Plac 172 in my hometown Ljubljana. We agreed with the owner of the studio to paint human bodies that are dancing, moving, singing, playing and celebrating the life. The mural had to be simple in shape and color but also good looking. I've made the bodies and the leaves big, keeping the character of the shapes consistent and carefully selecting the color palette. The style and composition of the mural fits really nicely with in the studio and it adds the place uniqueness. It is so unique, that it's easy to remember. The murals became the branding for Plac 172. For example, all the pictures taken in this studio have this mural in the background.
+V plesni dvorani Plac 172 v Ljubljani sem poslikala 4 stene. Z vodjo plesnega studia sva se strinjali, da naslikam človeška telesa, ki plešejo, pojejo, igrajo in proslavljajo življenje. Oblike in barve sem zasnovala tako, da so bile dovolj preproste za narisati, a privlačne za oko. Telesa in listi so bili narisani na veliko, s konstistetnostjo v oblikah, linijah in barvah pa je celotna poslikava dobila značaj in celoto. Poslikave se s svojim stilom in kompozicijo lepo poveže s prostorom in ga naredi zelo posebnega. Tako posebenega, da je zlahka zapomnljiv. Poslikave so na nek način postale zaščitni znak Placa 172, del njegovega brandinga. Vse fotografije iz tega studia imajo v ozadju te iste poslikave in je takoj jasno kje so bile posnete.
 
 
 ![tango-mural](/img/portfolio/tango-mural/tango-mural-800.jpg)
