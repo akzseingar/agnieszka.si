@@ -1,138 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/vucko/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/tango-mural/</loc>
-    <lastmod>2019-10-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/seeing-unseeable/</loc>
-    <lastmod>2019-03-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/star-reach/</loc>
-    <lastmod>2018-12-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/quasar/</loc>
-    <lastmod>2018-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/paper-artwork/</loc>
-    <lastmod>2017-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/orange/</loc>
-    <lastmod>2017-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/scorange/</loc>
-    <lastmod>2017-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/fri-brochure/</loc>
-    <lastmod>2017-10-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/fri-research-review/</loc>
-    <lastmod>2017-10-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/deygonnasee/</loc>
-    <lastmod>2017-09-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/random-illustrations/</loc>
-    <lastmod>2017-01-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/beep/</loc>
-    <lastmod>2016-12-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/miska-kiki/</loc>
-    <lastmod>2016-12-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/mmlj/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/codox/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/orange-t-shirt/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/shiatsu/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/tactile/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/wlan/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/staranje_knjig/</loc>
-    <lastmod>2014-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://www.agnieszka.si/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-03-02T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://www.agnieszka.si/sl/sitemap.xml</loc>
+		
+	   	<lastmod>2020-03-02T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
