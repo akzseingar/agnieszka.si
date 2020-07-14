@@ -9,7 +9,7 @@ weight = 8
 
 Illustrations for a workshop for children.
 <!--more-->
-These are the characters from the tales of ancient Greece. The illustrations were printed on paper and used as puppets at the workshop in the museum.
+For a workshop at City Museum of Ljubljana I've drawn characters from the tales of ancient Greece. The illustrations were printed on paper and used as puppets at the workshop in the museum.
 
 ![Ilustracije mmlj](/img/portfolio/mmlj/title.jpg)
 

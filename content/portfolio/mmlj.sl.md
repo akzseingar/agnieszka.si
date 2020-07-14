@@ -3,13 +3,14 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/mmlj/title.jpg"
 date = "2016-11-05T19:59:22+05:30"
-title = "City Museum of Ljubljana"
+title = "Mestni muzej Ljubljana"
 weight = 8
 +++
 
-Illustrations for a workshop for children.
+Ilustracije za otroško delavnico.
 <!--more-->
-These are the characters from the tales of ancient Greece. The illustrations were printed on paper and used as puppets at the workshop in the museum.
+Za delavnico v Mestnem muzeju Ljubljana sem narisala junake iz ene od grških antičnih pripovedk. Ilustracije so potem natisnili in jih uporabljali kot lutke na otroški poučni delavnici.
+
 
 ![Ilustracije mmlj](/img/portfolio/mmlj/title.jpg)
 

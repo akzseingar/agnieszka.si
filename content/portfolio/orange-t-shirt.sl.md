@@ -7,7 +7,7 @@ title = "Orange majčke"
 weight = 8
 +++
 
-Ilustracije za majčke..
+Ilustracije za majčke.
 <!--more-->
 
 ![1](/img/portfolio/orange-t-shirt/title.jpg)

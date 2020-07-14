@@ -10,7 +10,7 @@ weight = 8
 Refreshed visual identity for data mining program.
 <!--more-->
 
-Orange is an open source data visualization program. The idea was to have playfull and yet precisely descriptive illustrations. I've refreshed old logotype and mascot, made explanatory illustrations, designed the web page, business cards, posters, T-shirts and made an animation for tutorial videos.
+Orange is an open source data mining and data visualization program, which was developed by Biolab at the Faculty of Computer and Information Science in Ljubljana. The specialty of Orange is that the interface  is super friendly and anyone can use it without knowing how to code. As they say at Biolab: "Orange. Fruitful and fun!" Visually we wanted to show their philosophy through colorful, playful and yet precisely descriptive illustrations, where the main character Orange (the fruit) explains how Orange (the program) works. I've refreshed the old logotype and mascot, made explanatory illustrations, designed the web page, business cards, posters, T-shirts and made an animation for their tutorials on You tube.
 
 Project web page: https://orange.biolab.si
 

@@ -7,7 +7,7 @@ title = "Deygonna See"
 weight = 8
 +++
 
-Logotype design.
+Logotip.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ Logotype design.
 
 ![4](/img/portfolio/deygonnasee/dgs-sketches.jpg)
 
-<p style="text-align: center;">First sketches. Client wanted an eye inside the camera's lens.</p>
+<p style="text-align: center;">Prve skice. Stranka je želela imeti oko znotraj leče kamere.</p>
 
 &nbsp;
 
@@ -32,4 +32,4 @@ Logotype design.
 ![Deygonna See logotype line](/img/portfolio/deygonnasee/logo-dg-2.png)
 
 &nbsp;
-<p style="text-align: center;">More playful option which unfortunately was not chosen.</p>
+<p style="text-align: center;">Bolj igrive različice logotipa ki niso bile izbrane..</p>

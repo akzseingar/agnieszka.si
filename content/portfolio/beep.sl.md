@@ -3,10 +3,10 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/beep/title.jpg"
 date = "2016-12-05T19:59:22+05:30"
-title = "Beep Magazine"
+title = "Beep revija"
 weight = 8
 +++
-Cover illustration.
+Ilustracija za naslovnico revije.
 
 
 <!--more-->

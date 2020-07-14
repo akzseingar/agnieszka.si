@@ -10,9 +10,8 @@ weight = 8
 Prenova celostne grafične podobe.
 <!--more-->
 
-Orange is an open source data visualization program. The idea was to have playfull and yet precisely descriptive illustrations. I've refreshed old logotype and mascot, made explanatory illustrations, designed the web page, business cards, posters, T-shirts and made an animation for tutorial videos.
 
-Project web page: https://orange.biolab.si
+Orange je prosto dostopni program za odkrivanje in vizualizacijo podatkov, ki so ga razvili na v Biolab-u , na Fakuteti za računalništvo in informatiko v Ljubljani. Prednost programa Orange je, da je uporabniku prijazen in ga lahko uporablja kdorkoli, brez predznanja programiranja. Kot pravijo v Biolabu: "Orange. Friutful and fun!" Vizualno smo poskušali povedati njihovo filozofijo skozi pisane, igrive, a hkrati zelo vsebinsko natančne ilustracije, kjer glavni junak Pomaranček razloži kako Orange deluje. Star logotip in maskoto sem osvežila, naredila ilustracije za spletno stran, oblikovala spletno stran, poslovne vizitke, plakate, majčke in uvodno animacijo za njihove videe na You tube-u.
 
 ![Orange visual identity](/img/portfolio/orange/title.jpg)
 

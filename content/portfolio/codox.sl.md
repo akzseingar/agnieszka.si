@@ -7,7 +7,7 @@ title = "Codoxware"
 weight = 8
 +++
 
-Illustrations and animation for the web page.
+Ilustracije za spletno stran.
 <!--more-->
 
 

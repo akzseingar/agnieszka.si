@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/shiatsu/title-01.png"
 date = "2016-11-05T19:59:22+05:30"
-title = "Šiatsu Anja Furlan"
+title = "Shiatsu Anja Furlan"
 weight = 8
 +++
 Logotip in brošura.
