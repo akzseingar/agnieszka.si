@@ -93,12 +93,12 @@
     </item>
     
     <item>
-      <title>Research review</title>
+      <title>Research Review</title>
       <link>http://www.agnieszka.si/sl/portfolio/fri-research-review/</link>
       <pubDate>Thu, 05 Oct 2017 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/sl/portfolio/fri-research-review/</guid>
-      <description>&lt;p&gt;Brochure design.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Oblikovanje brošure.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Tue, 05 Sep 2017 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/sl/portfolio/deygonnasee/</guid>
-      <description>&lt;p&gt;Logotype design.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Logotip.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -120,30 +120,12 @@
     </item>
     
     <item>
-      <title>Beep Magazine</title>
+      <title>Beep revija</title>
       <link>http://www.agnieszka.si/sl/portfolio/beep/</link>
       <pubDate>Mon, 05 Dec 2016 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/sl/portfolio/beep/</guid>
-      <description>&lt;p&gt;Cover illustration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Illustrated Book Mouse Kiki</title>
-      <link>http://www.agnieszka.si/sl/portfolio/miska-kiki/</link>
-      <pubDate>Mon, 05 Dec 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/miska-kiki/</guid>
-      <description>&lt;p&gt;Illustrations for children&amp;rsquo;s tactile book.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>City Museum of Ljubljana</title>
-      <link>http://www.agnieszka.si/sl/portfolio/mmlj/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/mmlj/</guid>
-      <description>&lt;p&gt;Illustrations for a workshop for children.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ilustracija za naslovnico revije.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -152,7 +134,16 @@
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/sl/portfolio/codox/</guid>
-      <description>&lt;p&gt;Illustrations and animation for the web page.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ilustracije za spletno stran.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mestni muzej Ljubljana</title>
+      <link>http://www.agnieszka.si/sl/portfolio/mmlj/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>http://www.agnieszka.si/sl/portfolio/mmlj/</guid>
+      <description>&lt;p&gt;Ilustracije za otroško delavnico.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -161,7 +152,25 @@
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/sl/portfolio/orange-t-shirt/</guid>
-      <description>&lt;p&gt;Ilustracije za majčke..&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ilustracije za majčke.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shiatsu Anja Furlan</title>
+      <link>http://www.agnieszka.si/sl/portfolio/shiatsu/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>http://www.agnieszka.si/sl/portfolio/shiatsu/</guid>
+      <description>&lt;p&gt;Logotip in brošura.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tipne slike za muzeje in galerije</title>
+      <link>http://www.agnieszka.si/sl/portfolio/tactile/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>http://www.agnieszka.si/sl/portfolio/tactile/</guid>
+      <description>&lt;p&gt;Tipne slike.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -171,24 +180,6 @@
       
       <guid>http://www.agnieszka.si/sl/portfolio/wlan/</guid>
       <description>&lt;p&gt;Ilustracije za brošuro.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Šiatsu Anja Furlan</title>
-      <link>http://www.agnieszka.si/sl/portfolio/shiatsu/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/shiatsu/</guid>
-      <description>&lt;p&gt;Logotip in brošura.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Staranje knjig</title>
-      <link>http://www.agnieszka.si/sl/portfolio/staranje_knjig/</link>
-      <pubDate>Wed, 05 Nov 2014 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/staranje_knjig/</guid>
-      <description>&lt;p&gt;Textile and fashion design.&lt;/p&gt;</description>
     </item>
     
   </channel>
