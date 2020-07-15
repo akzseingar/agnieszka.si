@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.agnieszka.si/sl/portfolio/irnas/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.agnieszka.si/portfolio/irnas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="http://www.agnieszka.si/sl/portfolio/irnas/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.agnieszka.si/sl/portfolio/vucko/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
