@@ -11,7 +11,7 @@ Prenova celostne grafične podobe.
 <!--more-->
 
 
-Orange je prosto dostopni program za odkrivanje in vizualizacijo podatkov, ki so ga razvili na v Biolab-u , na Fakuteti za računalništvo in informatiko v Ljubljani. Prednost programa Orange je, da je uporabniku prijazen in ga lahko uporablja kdorkoli, brez predznanja programiranja. Kot pravijo v Biolabu: "Orange. Friutful and fun!" Vizualno smo poskušali povedati njihovo filozofijo skozi pisane, igrive, a hkrati zelo vsebinsko natančne ilustracije, kjer glavni junak Pomaranček razloži kako Orange deluje. Star logotip in maskoto sem osvežila, naredila ilustracije za spletno stran, oblikovala spletno stran, poslovne vizitke, plakate, majčke in uvodno animacijo za njihove videe na You tube-u.
+Orange je prosto dostopni program za odkrivanje in vizualizacijo podatkov, ki so ga razvili v Biolab-u, na Fakuteti za računalništvo in informatiko v Ljubljani. Prednost programa Orange je, da je uporabniku prijazen in ga lahko uporablja kdorkoli, brez predznanja programiranja. Kot pravijo v Biolabu: "Orange. Friutful and fun!" Vizualno smo poskušali povedati njihovo filozofijo skozi pisane, igrive, a hkrati zelo vsebinsko natančne ilustracije, kjer glavni junak Pomaranček razloži kako Orange deluje. Star logotip in maskoto sem osvežila, naredila ilustracije za spletno stran, oblikovala spletno stran, poslovne vizitke, plakate, majčke in uvodno animacijo za njihove videe na You tube-u.
 
 ![Orange visual identity](/img/portfolio/orange/title.jpg)
 

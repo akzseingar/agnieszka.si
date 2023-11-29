@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/scorange/title.png"
-date = "2017-11-05T19:59:22+05:30"
+date = "2017-11-05"
 title = "Single Cell Orange"
 weight = 8
 +++

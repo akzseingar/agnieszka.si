@@ -2,9 +2,9 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/paper-artwork/title1.jpg"
-date = "2017-11-05T19:59:22+05:30"
+date = "2008-11-05"
 title = "Light Catchers"
-weight = 8
+weight = 39
 +++
 
 Paper artworks.
