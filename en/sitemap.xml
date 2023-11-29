@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.agnieszka.si/portfolio/orange-2023/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="http://www.agnieszka.si/sl/portfolio/orange-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.agnieszka.si/portfolio/orange-2023/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.agnieszka.si/portfolio/pumice/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="http://www.agnieszka.si/sl/portfolio/pumice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.agnieszka.si/portfolio/pumice/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.agnieszka.si/portfolio/irnas/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -93,21 +123,6 @@
   </url>
   
   <url>
-    <loc>http://www.agnieszka.si/portfolio/paper-artwork/</loc>
-    <lastmod>2017-11-05T19:59:22+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://www.agnieszka.si/sl/portfolio/paper-artwork/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.agnieszka.si/portfolio/paper-artwork/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.agnieszka.si/portfolio/orange/</loc>
     <lastmod>2017-11-05T19:59:22+05:30</lastmod>
     <xhtml:link
@@ -124,7 +139,7 @@
   
   <url>
     <loc>http://www.agnieszka.si/portfolio/scorange/</loc>
-    <lastmod>2017-11-05T19:59:22+05:30</lastmod>
+    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
@@ -149,51 +164,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.agnieszka.si/portfolio/fri-brochure/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/fri-research-review/</loc>
-    <lastmod>2017-10-05T19:59:22+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://www.agnieszka.si/sl/portfolio/fri-research-review/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.agnieszka.si/portfolio/fri-research-review/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/deygonnasee/</loc>
-    <lastmod>2017-09-05T19:59:22+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://www.agnieszka.si/sl/portfolio/deygonnasee/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.agnieszka.si/portfolio/deygonnasee/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/random-illustrations/</loc>
-    <lastmod>2017-01-05T19:59:22+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://www.agnieszka.si/sl/portfolio/random-illustrations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.agnieszka.si/portfolio/random-illustrations/"
                 />
   </url>
   
@@ -228,36 +198,6 @@
   </url>
   
   <url>
-    <loc>http://www.agnieszka.si/portfolio/codox/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://www.agnieszka.si/sl/portfolio/codox/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.agnieszka.si/portfolio/codox/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.agnieszka.si/portfolio/orange-t-shirt/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://www.agnieszka.si/sl/portfolio/orange-t-shirt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.agnieszka.si/portfolio/orange-t-shirt/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.agnieszka.si/portfolio/shiatsu/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
     <xhtml:link
@@ -288,17 +228,17 @@
   </url>
   
   <url>
-    <loc>http://www.agnieszka.si/portfolio/wlan/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+    <loc>http://www.agnieszka.si/portfolio/paper-artwork/</loc>
+    <lastmod>2008-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://www.agnieszka.si/sl/portfolio/wlan/"
+                href="http://www.agnieszka.si/sl/portfolio/paper-artwork/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.agnieszka.si/portfolio/wlan/"
+                href="http://www.agnieszka.si/portfolio/paper-artwork/"
                 />
   </url>
   

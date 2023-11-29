@@ -6,10 +6,28 @@
     <description>Recent content on Agnieszka Rovšnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.agnieszka.si/sl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Orange Data Mining</title>
+      <link>http://www.agnieszka.si/sl/portfolio/orange-2023/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.agnieszka.si/sl/portfolio/orange-2023/</guid>
+      <description>&lt;p&gt;Prenova celostne grafične podobe.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pumice, pouk s ščepcem umetne inteligence</title>
+      <link>http://www.agnieszka.si/sl/portfolio/pumice/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.agnieszka.si/sl/portfolio/pumice/</guid>
+      <description>&lt;p&gt;Logotip.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Irnas</title>
@@ -66,15 +84,6 @@
     </item>
     
     <item>
-      <title>Lovilci svetlobe</title>
-      <link>http://www.agnieszka.si/sl/portfolio/paper-artwork/</link>
-      <pubDate>Sun, 05 Nov 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/paper-artwork/</guid>
-      <description>&lt;p&gt;Umetniško delo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Orange Data Mining</title>
       <link>http://www.agnieszka.si/sl/portfolio/orange/</link>
       <pubDate>Sun, 05 Nov 2017 19:59:22 +0530</pubDate>
@@ -102,33 +111,6 @@
     </item>
     
     <item>
-      <title>Research Review</title>
-      <link>http://www.agnieszka.si/sl/portfolio/fri-research-review/</link>
-      <pubDate>Thu, 05 Oct 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/fri-research-review/</guid>
-      <description>&lt;p&gt;Oblikovanje brošure.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Deygonna See</title>
-      <link>http://www.agnieszka.si/sl/portfolio/deygonnasee/</link>
-      <pubDate>Tue, 05 Sep 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/deygonnasee/</guid>
-      <description>&lt;p&gt;Logotip.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Osebni projekti</title>
-      <link>http://www.agnieszka.si/sl/portfolio/random-illustrations/</link>
-      <pubDate>Thu, 05 Jan 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/random-illustrations/</guid>
-      <description>&lt;p&gt;Skice in ilustracije.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Beep revija</title>
       <link>http://www.agnieszka.si/sl/portfolio/beep/</link>
       <pubDate>Mon, 05 Dec 2016 19:59:22 +0530</pubDate>
@@ -138,30 +120,12 @@
     </item>
     
     <item>
-      <title>Codoxware</title>
-      <link>http://www.agnieszka.si/sl/portfolio/codox/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/codox/</guid>
-      <description>&lt;p&gt;Ilustracije za spletno stran.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Mestni muzej Ljubljana</title>
       <link>http://www.agnieszka.si/sl/portfolio/mmlj/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>http://www.agnieszka.si/sl/portfolio/mmlj/</guid>
       <description>&lt;p&gt;Ilustracije za otroško delavnico.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Orange majčke</title>
-      <link>http://www.agnieszka.si/sl/portfolio/orange-t-shirt/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/sl/portfolio/orange-t-shirt/</guid>
-      <description>&lt;p&gt;Ilustracije za majčke.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -183,12 +147,12 @@
     </item>
     
     <item>
-      <title>Wlan Slovenija</title>
-      <link>http://www.agnieszka.si/sl/portfolio/wlan/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <title>Lovilci svetlobe</title>
+      <link>http://www.agnieszka.si/sl/portfolio/paper-artwork/</link>
+      <pubDate>Wed, 05 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://www.agnieszka.si/sl/portfolio/wlan/</guid>
-      <description>&lt;p&gt;Ilustracije za brošuro.&lt;/p&gt;</description>
+      <guid>http://www.agnieszka.si/sl/portfolio/paper-artwork/</guid>
+      <description>&lt;p&gt;Umetniško delo.&lt;/p&gt;</description>
     </item>
     
   </channel>

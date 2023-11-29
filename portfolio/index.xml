@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Orange Data Mining</title>
+      <link>http://www.agnieszka.si/portfolio/orange-2023/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.agnieszka.si/portfolio/orange-2023/</guid>
+      <description>&lt;p&gt;Branding. Web design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pumice</title>
+      <link>http://www.agnieszka.si/portfolio/pumice/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.agnieszka.si/portfolio/pumice/</guid>
+      <description>&lt;p&gt;Branding.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Irnas</title>
       <link>http://www.agnieszka.si/portfolio/irnas/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
@@ -66,15 +84,6 @@
     </item>
     
     <item>
-      <title>Light Catchers</title>
-      <link>http://www.agnieszka.si/portfolio/paper-artwork/</link>
-      <pubDate>Sun, 05 Nov 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/paper-artwork/</guid>
-      <description>&lt;p&gt;Paper artworks.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Orange Data Mining</title>
       <link>http://www.agnieszka.si/portfolio/orange/</link>
       <pubDate>Sun, 05 Nov 2017 19:59:22 +0530</pubDate>
@@ -86,7 +95,7 @@
     <item>
       <title>Single Cell Orange</title>
       <link>http://www.agnieszka.si/portfolio/scorange/</link>
-      <pubDate>Sun, 05 Nov 2017 19:59:22 +0530</pubDate>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.agnieszka.si/portfolio/scorange/</guid>
       <description>&lt;p&gt;Visual identity.&lt;/p&gt;</description>
@@ -99,33 +108,6 @@
       
       <guid>http://www.agnieszka.si/portfolio/fri-brochure/</guid>
       <description>&lt;p&gt;Brochure design.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Research Review</title>
-      <link>http://www.agnieszka.si/portfolio/fri-research-review/</link>
-      <pubDate>Thu, 05 Oct 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/fri-research-review/</guid>
-      <description>&lt;p&gt;Brochure design.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Deygonna See</title>
-      <link>http://www.agnieszka.si/portfolio/deygonnasee/</link>
-      <pubDate>Tue, 05 Sep 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/deygonnasee/</guid>
-      <description>&lt;p&gt;Logotype design.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Personal projects</title>
-      <link>http://www.agnieszka.si/portfolio/random-illustrations/</link>
-      <pubDate>Thu, 05 Jan 2017 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/random-illustrations/</guid>
-      <description>&lt;p&gt;Sketches, doodles and illustrations.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -147,24 +129,6 @@
     </item>
     
     <item>
-      <title>Codoxware</title>
-      <link>http://www.agnieszka.si/portfolio/codox/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/codox/</guid>
-      <description>&lt;p&gt;Illustrations for web page.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Orange T-shirts</title>
-      <link>http://www.agnieszka.si/portfolio/orange-t-shirt/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>http://www.agnieszka.si/portfolio/orange-t-shirt/</guid>
-      <description>&lt;p&gt;Illustrations for T-shirts.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Shiatsu Anja Furlan</title>
       <link>http://www.agnieszka.si/portfolio/shiatsu/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
@@ -183,12 +147,12 @@
     </item>
     
     <item>
-      <title>Wlan Slovenija</title>
-      <link>http://www.agnieszka.si/portfolio/wlan/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <title>Light Catchers</title>
+      <link>http://www.agnieszka.si/portfolio/paper-artwork/</link>
+      <pubDate>Wed, 05 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://www.agnieszka.si/portfolio/wlan/</guid>
-      <description>&lt;p&gt;Illustrations for a brochure.&lt;/p&gt;</description>
+      <guid>http://www.agnieszka.si/portfolio/paper-artwork/</guid>
+      <description>&lt;p&gt;Paper artworks.&lt;/p&gt;</description>
     </item>
     
   </channel>
